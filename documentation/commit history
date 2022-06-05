@@ -1,0 +1,4 @@
+06/05/2022 14:29
+Created the required code for the demo chatbot:
+-Intents trained on the demo bot [cash_in_location, cash_out_location, mpin_concern, penalty_waiver]
+-The output can now be deployed with the fast api
